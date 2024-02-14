@@ -1,6 +1,5 @@
 import sqlite3
 from os import path
-from .table import Table
 
 
 class DBContext:
